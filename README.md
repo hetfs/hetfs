@@ -21,6 +21,7 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
 ## Current Focus
 
 🚀 Actively exploring new technologies, contributing to open-source projects, and sharing knowledge about hardware and software through HETFS LTD.
+#### Hi 👋 check this Command-Line Interface project https://github.com/hetfs/master-cli.git
 
 ## Let's Connect!
 
