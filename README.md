@@ -11,8 +11,6 @@
 
 Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set covering various programming languages, system administration, cloud computing, and creative domains such as graphic design.
 
-## Technical Expertise
-
 ## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
