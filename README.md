@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fredaws
+# Hi there 👋 I'm Fredaws
 
 
 ## Introduction
@@ -7,7 +7,7 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
 
 ## Technical Expertise
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🔧 Founder of HETFS LTD, a company dedicated to teaching computer hardware and mobile phone repairs.
 - 🌐 Operating in the fields of Health, Education, Technology, Farming, and Startup initiatives.
@@ -67,8 +67,6 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
   </a>
 </div>
 
-###
-
 ---
 ### ✍️ Random Dev Quote
 
@@ -76,6 +74,7 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ---
 
 **HETFS LTD**: Bridging the gap between technology and education, making a difference in health, fostering innovation in farming, and nurturing startups for a brighter future.
