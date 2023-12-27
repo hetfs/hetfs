@@ -1,5 +1,11 @@
-# Hi there 👋 I'm Fredaws
 
+![](https://cdn.buymeacoffee.com/uploads/cover_images/2023/12/wKEQng04UVaXx8eSI6T1L20zZgIkLfLsIUuQerTu.png)
+
+### **HETFS LTD** VISION: Bridging the gap between technology and education, making a difference in health, fostering innovation in farming, and nurturing startups for a brighter future.
+
+---
+
+# Hi there 👋 I'm Fredaws
 
 ## Introduction
 
@@ -73,7 +79,4 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-
-**HETFS LTD**: Bridging the gap between technology and education, making a difference in health, fostering innovation in farming, and nurturing startups for a brighter future.
