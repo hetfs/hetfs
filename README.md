@@ -79,4 +79,8 @@ Hello, I'm Fredaws Lomdo, a self-taught enthusiast with a diverse skill set cove
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ---
+
+## <a href="https://www.buymeacoffee.com/hetfs01f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 165px !important;" ></a>   To support *Master CLI* Team [HETFS LTD](https://github.com/hetfs)
+
