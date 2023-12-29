@@ -4,15 +4,15 @@
 
 # Hi there 👋 I'm Fredaws
 
-# 💫 Tech Enthusiast and Founder
+# 💫 Tech-Enthusiast and Founder
 
 Welcome to my GitHub profile! I am Fredaws Lomdo, a self-taught enthusiast with a rich history in technology and a vision for transformative initiatives. Here's a glimpse into my tech journey and the founding of HETFS LTD.
 
 ## Tech Journey
 
-My journey in technology began in 2000, as a self-driven explorer in electronics and mobile repairing. Over the years, I have honed my skills in various programming languages, system administration, cloud computing, and graphic design. The milestones include mastering software such as Adobe, Ulead, and Sony Vegas, obtaining certifications in CompTIA A+ and Cisco CCNA, and delving into scripting languages like Batch and PowerShell. My commitment to continuous improvement led me to explore Visual Basic, PHP, Java, Oracle, and more.
+My journey in technology began in 2000, as a self-driven explorer in electronics and mobile repairing. Over the years, I have honed my skills in various programming languages, system administration, cloud computing, and graphic design. The milestones include mastering Adobe, Ulead, and Sony Vegas software, obtaining certifications in CompTIA A+ and Cisco CCNA, and delving into scripting languages like Batch and PowerShell. My commitment to continuous improvement led me to explore Visual Basic, PHP, Java, Oracle, and more.
 
-In 2015, I took a significant step in my coding journey, embracing system administration, cloud computing, and mastering languages like Python, C, C++, and Lua. This extensive background reflects my passion for learning, problem-solving, and a dedication to mastering a diverse array of skills.
+In 2015, I took a significant step in my coding journey, embracing system administration, cloud computing, and mastering languages like Python, C, C++, and Lua. This extensive background reflects my passion for learning, and problem-solving, and my dedication to mastering a diverse array of skills.
 
 ## Vision - HETFS LTD
 
@@ -34,7 +34,7 @@ HETFS LTD, standing for Health, Education, Technology, Farming, and Startup init
 
 I am passionate about leveraging technology to make a positive impact across diverse sectors. HETFS LTD is not just a company; it's a vision-driven initiative aimed at creating meaningful change. Join me on this journey as we strive to make a lasting impact on health, education, technology, farming, and the startup ecosystem.
 
-Feel free to explore the repositories here, where I share projects, code snippets, and contributions that align with the vision of HETFS LTD. Let's code for a brighter future!
+You can explore the repositories here, where I share projects, code snippets, and contributions that align with the vision of HETFS LTD. Let's code for a brighter future!
 
  ## Let's Connect!
 
@@ -101,5 +101,5 @@ Feel free to explore the repositories here, where I share projects, code snippet
 
 ---
 
-##    Support *Master CLI* Team  <a href="https://www.buymeacoffee.com/hetfs01f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 165px !important;" ></a>  [HETFS LTD](https://github.com/hetfs) 
+##  Support *Master CLI* Team  <a href="https://www.buymeacoffee.com/hetfs01f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 165px !important;" ></a>  [HETFS LTD](https://github.com/hetfs) 
 
