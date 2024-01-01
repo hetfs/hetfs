@@ -2,6 +2,11 @@
 
 ---
 
+![Happy_NewYear](https://github.com/hetfs/hetfs/assets/137841522/476d71d7-3c68-4d82-a845-2bca5c31df29)
+
+
+---
+
 # Hi there 👋 I'm Fredaws
 
 # 💫 Tech-Enthusiast and Founder
