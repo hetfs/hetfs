@@ -2,7 +2,13 @@
 
 ---
 
-![Happy_NewYear](https://github.com/hetfs/hetfs/assets/137841522/476d71d7-3c68-4d82-a845-2bca5c31df29)
+![Happy_NewYear](https://github.com/hetfs/hetfs/assets/137841522/476d71d7-3c68-4d82-a845-2bca5c31df29) 
+### 🎉 Happy New Year, amazing GitHub community! 🚀 As we move forward, 
+### I am grateful for your incredible support and collaboration throughout the past year. 
+### 🙌 May the coming year bring endless opportunities to code, innovate, and achieve new milestones. 
+### 🌟 Here's to more open-source adventures, bug-free commits, and a repository of success in 2024! 
+### 🎊 Cheers to a fantastic New Year filled with joy, growth, and extraordinary coding moments. 
+### 🥳 Let's make this year's commits even more epic together! 🚀✨ #HappyNewYear #CodeOn"
 
 
 ---
