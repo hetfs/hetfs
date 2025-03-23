@@ -4,7 +4,7 @@
 
 ## 🎉 **Happy New Year, Amazing GitHub Community!** 🚀
 
-As we welcome **2025**, I want to extend my heartfelt gratitude for your incredible support, collaboration, and enthusiasm throughout the past year. 🙌 
+As we welcome **2025**, I, extend my heartfelt gratitude for your incredible support, collaboration, and enthusiasm throughout the past year. 🙌 
 
 ### Here’s to a New Year filled with:
 - **Boundless opportunities** for innovation and creativity  
@@ -20,7 +20,7 @@ Together, we’ll take our contributions to greater heights. 🚀✨
 
 ### 💫 **Tech-Enthusiast and Founder of HETFS LTD**
 
-Welcome to my GitHub profile! Here’s a glimpse of my journey and the vision behind **HETFS LTD**.  
+Welcome to my GitHub profile! Here’s the journey and the vision behind **HETFS LTD**.  
 
 ---
 
