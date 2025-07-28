@@ -1,8 +1,19 @@
 ![Banner](https://cdn.buymeacoffee.com/uploads/cover_images/2023/12/wKEQng04UVaXx8eSI6T1L20zZgIkLfLsIUuQerTu.png)
 
+[![HETFS LTD](https://img.shields.io/badge/HETFS-Health_Education_Technology_Farming_Startups-8A2BE2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/hetfs)
+[![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=azurepipelines&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
+[![Software Engineering](https://img.shields.io/badge/Software_Engineering-Expert-00599C?style=for-the-badge&logo=codepen&logoColor=white)]()
+[![Network Administration](https://img.shields.io/badge/Network_Admin-CCIE_Level-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]()
+[![Technical Writing](https://img.shields.io/badge/Technical_Writing-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)]()
+[![luaDev](https://img.shields.io/badge/luaDev-Lua/JIT_Builder-2C2D72?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/hetfs/luaDev)
+[![luaOrbiter](https://img.shields.io/badge/luaOrbiter-Lua_Learning_Platform-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/hetfs/luaOrbiter)
+[![Support: Buy Me a Coffee](https://img.shields.io/badge/Support-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hetfs01f)
+[![YouTube Tutorials](https://img.shields.io/badge/Tutorials-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mastercli)
+[![Telegram Community](https://img.shields.io/badge/Community-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+h941uu74P6I0NDY0)
+
 # 👋 Hi there! I'm Fredaws Lomdo  aka `GENIE`
 
-### 💡 DevOps & Software Engineer | Platform Builder | Docs-as-Code Advocate  
+## 💡 DevOps & Software Engineer | Platform Builder | Docs-as-Code Advocate  
 ### 🌍 Founder @ [HETFS LTD](https://github.com/hetfs)
 
 Welcome! I’m passionate about building powerful, accessible tools for developers, startups, and learners across Africa and beyond. I combine **DevOps**, **Lua tooling**, and **technical writing** to bridge innovation and real-world impact.
