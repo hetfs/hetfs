@@ -66,6 +66,9 @@ Explore featured initiatives:
 
 ## Technical Expertise
 
+<details>
+  <summary>Tech Stak</summary>
+  
 ### Programming Languages
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=white)](https://en.cppreference.com/w/c)
@@ -74,10 +77,10 @@ Explore featured initiatives:
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat\&logo=rust\&logoColor=white)](https://www.rust-lang.org/)
 
-### Scripting and Web
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)](https://www.python.org/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat\&logo=lua\&logoColor=white)](https://www.lua.org/)
+
+### Scripting
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat\&logo=powershell\&logoColor=white)](https://learn.microsoft.com/powershell/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnu-bash\&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -94,16 +97,23 @@ Explore featured initiatives:
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat\&logo=apple\&logoColor=white)](https://www.apple.com/macos/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)](https://www.linux.org/)
 
-### Terminal and Tooling
+### Terminal
 
 [![WezTerm](https://img.shields.io/badge/WezTerm-4B32C3?style=flat\&logo=wezterm\&logoColor=white)](https://wezterm.org/)
 [![kitty](https://img.shields.io/badge/kitty-6A4C9C?style=flat\&logo=terminal\&logoColor=white)](https://sw.kovidgoyal.net/kitty/)
+
+### Tooling
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)](https://www.docker.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ### Editors and IDEs
 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat\&logo=neovim\&logoColor=white)](https://neovim.io/)
+
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)](https://code.visualstudio.com/)
+
+</details>
 
 ---
 
