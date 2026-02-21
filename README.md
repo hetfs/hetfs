@@ -1,20 +1,22 @@
+<div align="center">
+  
 ![Banner](https://cdn.buymeacoffee.com/uploads/cover_images/2023/12/wKEQng04UVaXx8eSI6T1L20zZgIkLfLsIUuQerTu.png)
 
 [![HETFS LTD](https://img.shields.io/badge/HETFS-Health_Education_Technology_Farming_Startups-8A2BE2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/hetfs)
-[![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=azurepipelines&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
-[![Software Engineering](https://img.shields.io/badge/Software_Engineering-Expert-00599C?style=for-the-badge&logo=codepen&logoColor=white)]()
-[![Network Administration](https://img.shields.io/badge/Network_Admin-CCIE_Level-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]()
-[![Technical Writing](https://img.shields.io/badge/Technical_Writing-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)]()
-[![luaDev](https://img.shields.io/badge/luaDev-Lua/JIT_Builder-2C2D72?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/hetfs/luaDev)
-[![luaOrbiter](https://img.shields.io/badge/luaOrbiter-Lua_Learning_Platform-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/hetfs/luaOrbiter)
 [![Support: Buy Me a Coffee](https://img.shields.io/badge/Support-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hetfs01f)
 [![YouTube Tutorials](https://img.shields.io/badge/Tutorials-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mastercli)
 [![Telegram Community](https://img.shields.io/badge/Community-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+h941uu74P6I0NDY0)
+  
+</div>
+
+---
+<div align="center">
 
 # 👋 Hi there! I'm Fredaws Lomdo  aka `GENIE`
 
 ## 💡 DevOps & Software Engineer | Platform Builder | Docs-as-Code Advocate  
-### 🌍 Founder @ [HETFS LTD](https://github.com/hetfs)
+
+</div>
 
 Welcome! I’m passionate about building powerful, accessible tools for developers, startups, and learners across Africa and beyond. I combine **DevOps**, **Lua tooling**, and **technical writing** to bridge innovation and real-world impact.
 
@@ -37,26 +39,15 @@ My tech journey began around **2000** fixing electronics and flashing mobile pho
 **Health + Education + Technology + Farming + Startups**  
 We design tech that serves communities, not just corporations.
 
-- 🧠 **LuaOrbiter** – Interactive platform to teach Lua through docs + exercises  
-- ⚙️ **luaDev** – Lua/LuaJIT build system using PowerShell + CMake  
-- 💳 **ScanApp** – Secure, fast, fraud-resistant payments  
-- 🌾 **Agro-Tech** – Tools to empower farmers with data and mobile tech  
-- 🚀 **Startup Tools** – Resources to help ideas become platforms
-
----
-
-## 🧠 Featured Projects
-
-| Project        | Description                                                |
-|----------------|------------------------------------------------------------|
-| [luaDev](https://github.com/hetfs/luaDev)       | Modular builder for Lua & LuaJIT (PowerShell + CMake)     |
-| [luaOrbiter](https://github.com/hetfs/luaOrbiter)   | Docs-first Lua learning platform with React-based exercises |
+- 🌾 **Agro-Tech** Tools to empower farmers with data and mobile tech  
+- 🚀 **Startup Tools** Resources to help ideas become platforms
+Here's a list of my [featured Projects](./docs/featured-projects.md)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">  
+<div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
@@ -71,33 +62,24 @@ We design tech that serves communities, not just corporations.
 
 ---
 
-## ✍️ What I'm Building Now
-
-- ✍️ Writing beginner-to-advanced Lua lessons in [LuaOrbiter](https://github.com/hetfs/luaOrbiter)
-- ⚙️ Finalising version-aware auto CMake logic in [luaDev](https://github.com/hetfs/luaDev)
-- 🌓 Customising Docusaurus layouts with dark mode, MDX, and OG preview support
-- 📖 Validating docs with **Vale**, **Alex**, **write-good**, and **Microsoft Style Guide**
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com)  
-[![X/Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/hetf01)  
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://youtube.com/@mastercli)  
-[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://m.facebook.com/profile.php?id=100090714730738)  
-[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/+h941uu74P6I0NDY0)
-
----
-
 ## ☕ Support My Work
 
-If you enjoy what I build tools, lessons, or systems consider sponsoring or sharing:
+<div align="center">
 
-👉 [Buy Me a Coffee](https://www.buymeacoffee.com/hetfs01f)  
-👉 [Explore Projects @ HETFS](https://github.com/hetfs)
+# “Tech is a tool the real innovation is in how we use it to empower others.”  
+  
+[![Support: Buy Me a Coffee](https://img.shields.io/badge/Support-Buy_Me_a_Coffee-FFDD00?style=for-the-badge\&logo=buymeacoffee\&logoColor=black)](https://www.buymeacoffee.com/hetfs01f)
+
+[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://m.facebook.com/profile.php?id=100090714730738)
+[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/+h941uu74P6I0NDY0)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com)
+[![X/Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/hetf01)
+[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://youtube.com/@mastercli)
+
+</div>
 
 ---
 
-> “Tech is a tool the real innovation is in how we use it to empower others.”  
-> — Fredaws Lomdo
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hetfs/hetfs.git&type=date&legend=top-left)](https://www.star-history.com/#hetfs/hetfs.git&type=date&legend=top-left)
