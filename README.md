@@ -67,7 +67,7 @@ Explore featured initiatives:
 ## Technical Expertise
 
 <details>
-  <summary>Tech Stak</summary>
+  <summary>Tech Stack</summary>
   
 ### Programming Languages
 
