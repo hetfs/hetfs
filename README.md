@@ -113,6 +113,12 @@ Explore featured initiatives:
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)](https://code.visualstudio.com/)
 
+## 🏗 Build Systems
+
+CMake Cross-platform build configuration for native C/C++ projects
+
+Meson Modern, fast, and minimal build system for native development
+
 </details>
 
 ---
